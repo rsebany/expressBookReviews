@@ -290,7 +290,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@rsebany]([https://github.com/yourusername](https://github.com/rsebany))
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/romualdo-sebany/)
+- LinkedIn: [my LinkedIn](https://www.linkedin.com/in/romualdo-sebany/)
 
 ---
 
